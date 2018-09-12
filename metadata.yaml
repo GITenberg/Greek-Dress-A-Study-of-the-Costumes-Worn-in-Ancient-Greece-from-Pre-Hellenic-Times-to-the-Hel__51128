@@ -1,11 +1,16 @@
 _repo: Greek-Dress-A-Study-of-the-Costumes-Worn-in-Ancient-Greece-from-Pre-Hellenic-Times-to-the-Hel__51128
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51128-h/images/cover.jpg
 creator:
   author:
     agent_name: Abrahams, Ethel Beatrice
     gutenberg_agent_id: '46251'
     url: http://www.gutenberg.org/2009/agents/46251
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51128#Greek-Dress-A-Study-of-the-Costumes-Worn-in-Ancient-Greece-from-Pre-Hellenic-Times-to-the-Hel_
 gutenberg_issued: '2016-02-05'
 gutenberg_type: Text
 identifiers:
